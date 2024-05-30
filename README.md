@@ -1,5 +1,6 @@
 # Change-Mode
-My first REPOSITORY
+My first Repository:-
+
 Welcome to the Change Mode repository! This project is a simple JavaScript-based application developed as part of my journey to learn front-end development. It demonstrates how to switch between different modes (such as light mode and dark mode) by clicking a button.
 
 PROJECT DESCRIPTION:
